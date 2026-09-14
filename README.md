@@ -1,77 +1,134 @@
 # 👋 Olá, eu sou Andrey Batista Silva
 
 🎓 Estudante de **Segurança da Informação**  
-🔐 Interessado em **Cybersecurity, Redes, Linux e Segurança Corporativa**
+🔐 Focado em **Cybersecurity, Segurança de Redes, Linux e Segurança Corporativa**
 
-Atualmente desenvolvo minha experiência prática através de laboratórios de redes, Linux e segurança da informação, documentando cenários e soluções aplicadas em ambientes controlados.
+Atualmente desenvolvo minha experiência prática através de laboratórios de redes, Linux e segurança da informação, documentando cenários, ferramentas e soluções aplicadas em ambientes controlados.
 
 ---
 
-## 🛡️ Áreas de estudo
+## 🚀 Projetos em destaque
+
+### 🔹 Network Security Labs
+Laboratórios práticos de redes e segurança envolvendo fundamentos de TCP/IP, protocolos, análise de tráfego e conceitos de proteção de redes.
+
+🔗 https://github.com/AndreySilva182/network-security-labs
+
+---
+
+### 🔹 Linux Security Labs
+Estudos práticos de segurança aplicada em ambientes Linux, explorando administração de sistemas, usuários, permissões e fundamentos de hardening.
+
+🔗 https://github.com/AndreySilva182/linux-security-labs
+
+---
+
+### 🔹 Home SOC Lab *(em desenvolvimento)*
+Ambiente simulado para prática de monitoramento, análise de logs, detecção de eventos e fundamentos de resposta a incidentes.
+
+---
+
+# 🛡️ Áreas de estudo
 
 - Segurança da Informação
 - Segurança de Redes
 - Linux Security
 - Hardening de sistemas
 - Monitoramento e resposta a incidentes
-- Fundamentos de GRC e Gestão de Riscos
+- Gestão de riscos
+- Fundamentos de GRC
+- Auditoria e conformidade
 
 ---
 
-## 💻 Conhecimentos técnicos
+# 💻 Conhecimentos técnicos
 
-### Redes
+## 🌐 Redes
+
 - TCP/IP
 - IPv4 e IPv6
 - Subnetting
 - DNS
 - DHCP
+- HTTP/HTTPS
 - Roteamento
 - Switching
+- Fundamentos de segurança em redes
 
-### Sistemas
+---
+
+## 🐧 Sistemas
+
 - Linux
 - Terminal Bash
 - Usuários e permissões
 - Administração básica de sistemas
+- Estrutura de diretórios
+- Conceitos de hardening
 
-### Segurança
+---
+
+## 🔐 Segurança
+
 - IAM (fundamentos)
-- GRC
+- GRC (fundamentos)
 - Gestão de riscos
+- Resposta a incidentes (fundamentos)
 - Auditoria e conformidade
-- ISO/IEC 27000
+- Família ISO/IEC 27000
 
-### Programação e dados
+---
+
+## 🐍 Programação e Dados
+
 - Python (fundamentos)
 - MySQL (fundamentos)
 
 ---
 
-## 🚀 Projetos
+# 📜 Certificações e cursos
 
-### 🔹 Network Security Labs
-Laboratórios práticos de redes e segurança envolvendo protocolos TCP/IP, análise de tráfego e fundamentos de segurança de redes.
+- Google Cybersecurity Professional Certificate  
+  - Linux
+  - MySQL
+  - Python
+  - Resposta a incidentes
+  - Auditoria
+  - Gerenciamento de riscos
 
-🔗 https://github.com/AndreySilva182/network-security-labs
+- Cisco Networking Academy - Curso de Redes  
+  - Modelo OSI
+  - TCP/IP
+  - IPv4/IPv6
+  - Subnetting
+  - DNS
+  - DHCP
+  - Roteamento
+  - Switching
 
-### 🔹 Linux Security Labs
-Estudos práticos de segurança aplicada em ambientes Linux, incluindo administração, permissões e fundamentos de hardening.
-
-🔗 https://github.com/AndreySilva182/linux-security-labs
+- FIAP - Fundamentos de Linux  
+  - Estrutura de diretórios
+  - Permissões
+  - Usuários
+  - Terminal Linux
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 - Segurança de Redes
 - Linux Security
 - SOC Fundamentals
 - Monitoramento e análise de logs
 - Cloud Security
+- Boas práticas de segurança
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-LinkedIn: linkedin.com/in/andrey-batista-2a9436260
+LinkedIn:  
+https://linkedin.com/in/andrey-batista-2a9436260
+
+GitHub:  
+https://github.com/AndreySilva182
