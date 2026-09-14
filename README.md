@@ -3,7 +3,7 @@
 🎓 Estudante de **Segurança da Informação**  
 🔐 Interessado em **Cybersecurity, Redes, Linux e Segurança Corporativa**
 
-Atualmente desenvolvo minha base prática através de laboratórios envolvendo infraestrutura, redes e segurança da informação.
+Atualmente desenvolvo minha experiência prática através de laboratórios de redes, Linux e segurança da informação, documentando cenários e soluções aplicadas em ambientes controlados.
 
 ---
 
